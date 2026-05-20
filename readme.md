@@ -86,5 +86,3 @@ The processor_tb.v file is used for simulation and verification of the processor
 🔷 Waveform Output
 
 The waveform output generated during simulation shows signals such as clock, Program Counter, ALU output, register values, and memory operations. The waveform helps analyze processor timing and instruction execution behavior.
-
-🛠️ T
